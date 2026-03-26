@@ -25,7 +25,7 @@ A lightweight, Postman-inspired API testing tool built with **PHP**, **MySQL**, 
 
 ## 📸 Screenshots
 
-> Add screenshots here after setup
+![Screenshot](./images/screenshot.png)
 
 ---
 

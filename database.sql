@@ -1,9 +1,6 @@
 -- API Tester & Request Logger Database Schema
 -- Run this in phpMyAdmin or MySQL CLI
 
-CREATE DATABASE IF NOT EXISTS api_tester CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE api_tester;
-
 CREATE TABLE IF NOT EXISTS request_logs (
     id INT AUTO_INCREMENT PRIMARY KEY,
     method VARCHAR(10) NOT NULL,

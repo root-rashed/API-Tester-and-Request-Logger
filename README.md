@@ -24,7 +24,7 @@ A lightweight, Postman-inspired API testing tool built with **PHP**, **MySQL**, 
 ---
 
 ## Live Website link
-https://api-tester.page.gd/
+https://www.api-tester.infinityfreeapp.com
 
 ---
 

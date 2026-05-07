@@ -120,4 +120,4 @@ MIT License — free to use, modify, and distribute.
 
 ## 👤 Author
 
-Built by **[Your Name]** — [GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourusername)
+Built by **[Rashedul islam]** — [GitHub](https://github.com/root-rashed) · [LinkedIn](https://linkedin.com/in/root-rashed)
